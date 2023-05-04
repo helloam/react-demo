@@ -6,16 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
      
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <p>"The future belongs to those who believe in the beauty of their dreams."
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.womenshistory.org/education-resources/biographies/eleanor-roosevelt"
           target="_blank"
           rel="noopener noreferrer"
         >
-         This is a test.
+         -Eleanor Roosevelt
         </a>
       </header>
     </div>
