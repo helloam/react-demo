@@ -17,8 +17,7 @@ const Home = () => {
             Your Favourite Food Delivered Hot & Fresh
           </h1>
           <p className="primary-text">
-            Healthy switcher chefs do all the prep work, like peeding, chopping
-            & marinating, so you can cook a fresh food.
+            Healthy and delicious meals made from organic and locally-sourced ingredients prepared by professional cooks, delivered to your door!
           </p>
           <button className="secondary-button">
             Order Now <FiArrowRight />{" "}
